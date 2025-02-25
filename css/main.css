@@ -115,3 +115,9 @@ p {
 nav.container {
     padding: 1em;
 }
+
+.Logo {
+    transition: none;
+    color: #f2e6ef;
+    
+}
