@@ -87,7 +87,9 @@ a:hover {
     background-color: #fd9cd6;;
     color: #FFF;
 }
-
+a.Logo{
+    background-color:none;
+}
 footer {
     width: 100%;
     text-align: center;
