@@ -79,11 +79,13 @@ a {
     text-decoration: none;
     padding: 0.25em .5em;
     text-transform: uppercase;
-    min-width: 42px;
+    min-width: 42px; 
+
 }
 
 a.active,
 a:hover {
+    transition: all 200ms ease-in;
     background-color: #fd9cd6;;
     color: #FFF;
 }
